@@ -1,6 +1,6 @@
 # Frontend Mentor - Social proof section
 
-![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
+Here is the [link](https://pantbibek21.github.io/social-card-component/)
 
 ## Welcome! 👋
 
